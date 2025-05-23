@@ -1,0 +1,27 @@
+The Invoice Line Item Calculator
+Enter price: 129.45
+Enter quantity: 5
+
+PRICE:		129.45
+QUANTITY:	5
+TOTAL:		647.25
+
+Enter another line item? (y/n): y
+Enter price: 149.99
+Enter quantity: 7
+
+PRICE:		149.99
+QUANTITY:	7
+TOTAL:		1049.93
+
+Enter another line item? (y/n): y
+Enter price: 25.50
+Enter quantity: 3
+
+PRICE:		25.50
+QUANTITY:	3
+TOTAL:		76.50
+
+Enter another line item? (y/n): n
+
+Bye!
